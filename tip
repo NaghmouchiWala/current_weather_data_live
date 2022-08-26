@@ -1,0 +1,7 @@
+create a openweather account to get the live data 
+by using api request.
+
+link : https://openweathermap.org/
+
+store the api key in windows Environment variable otherwise mahech ech tekhdem.
+==> it on'y work without it
