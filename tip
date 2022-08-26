@@ -3,5 +3,7 @@ by using api request.
 
 link : https://openweathermap.org/
 
-store the api key in windows Environment variable otherwise mahech ech tekhdem.
-==> it on'y work without it
+store the api key in windows Environment variable otherwise (mahech ech tekhdem).
+==> it will not work without storing it in windows Environment variable
+so please be careful
+storing the data and the key there will be safer to use.
